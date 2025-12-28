@@ -1,0 +1,1 @@
+C:\Users\ospin\Documents\cursorust\moduleenumeraciones\target\release\moduleenumeraciones.exe: C:\Users\ospin\Documents\cursorust\moduleenumeraciones\src\main.rs C:\Users\ospin\Documents\cursorust\moduleenumeraciones\src\utils\mod.rs
